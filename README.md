@@ -16,6 +16,8 @@
 </div>
 
 <br/>
+<img src="Animation - 1749157838862 (1).gif" width="300px" alt="Coding Animation"/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-arabi-b62493238/">
