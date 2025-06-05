@@ -10,13 +10,14 @@
 ---
 
 ## 🔗 Connect With Me  
+<img src="1749159060487.gif" width="300px" alt="Coding Animation"/>
 
 <div align="center">
   <img src="https://private-cdn.lottie.host/e888544f-ad90-4473-b22c-db41283cf217/variation/jGvvo5o18u.gif?versionId=Lk9bZQSVe.vIp4cix5Kfa2VwmqSYruKX" width="250px" alt="Coding Animation"/>
 </div>
 
 <br/>
-<img src="Animation - 1749157838862 (1).gif" width="300px" alt="Coding Animation"/>
+
 
 
 <p align="center">
