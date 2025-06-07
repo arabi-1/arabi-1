@@ -38,5 +38,5 @@
 
 ## 🌐 Connect With Me  
 😎 **LinkedIn:** [mohammad-arabi](https://www.linkedin.com/in/mohammad-arabi-b62493238/)  
-😎 **Instagram:** [@_i.arabi](https://www.instagram.com/_i.arabi?igsh=MThqY3R3YWcyZHNyOA==)
-😎 **Stackocerflow:** [https://stackoverflow.com/users/25404173/mohammad-arabi)
+😎 **Instagram:** [@_i.arabi](https://www.instagram.com/_i.arabi?igsh=MThqY3R3YWcyZHNyOA==/)
+😎 **Stackocerflow:** [mohammad-arabi](https://stackoverflow.com/users/25404173/mohammad-arabi)
