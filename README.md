@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arabi</h1>
 <h3 align="center">A thinker turning his thoughts into code.</h3>
 
+<img align="right" src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" width="300" alt="Coding animation">
+
 <p align="center">
   <img src="https://hits.sh/github.com/arabi-1.svg?label=Profile%20views&color=0e75b6&logo=github" alt="profile views"/>
 </p>
@@ -15,6 +17,8 @@
 - 💬 Ask me about **Java, C++ and Python**  
 - 📫 How to reach me: **khanarabi80@gmail.com**  
 - ⚡ Fun fact: **I think I am not performing to my highest potential**
+
+<br clear="right"/>
 
 ---
 
