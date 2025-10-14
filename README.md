@@ -31,7 +31,7 @@
 <!-- ensure next sections start below the image -->
 <br clear="all"/>
 
-### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
