@@ -1,89 +1,31 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arabi</h1>
-<h3 align="center">A thinker turning his thoughts into code.</h3>
+<div align="center">
+  <img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" align="right" width="400"/>
+  
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; text-align:left;">
+    <h1>Hi 👋, I'm Muhammad Arabi</h1>
+    <p>A passionate software engineering student exploring full-stack development, Java, and Flutter 🚀</p>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/arabi-1.svg?label=Profile%20views&color=0e75b6&logo=github" alt="profile views"/>
-</p>
+---
 
-<table width="100%" cellpadding="10">
-  <tr>
-    <!-- LEFT COLUMN: text -->
-    <td valign="top" width="60%">
-      
-### 🚀 About Me
-- 🔭 I’m currently working on **Shopping_app**  
-- 🌱 I’m currently learning **Dart and Firebase**  
-- 👯 I’m looking to collaborate on **Java and Dart projects**  
-- 🤝 I’m looking for help with **Dart and Java**  
-- 💬 Ask me about **Java, C++ and Python**  
-- 📫 How to reach me: **khanarabi80@gmail.com**  
-- ⚡ Fun fact: **I think I am not performing to my highest potential**
+<div style="background-color:#0d1117; border-radius:15px; padding:20px;">
+  <h3>📫 Connect with me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/mohammad-arabi-b62493238" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:youremail@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-    </td>
+---
 
-    <!-- RIGHT COLUMN: big GIF -->
-    <td valign="top" width="40%" align="center">
-      <img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" alt="Coding animation" width="520" />
-    </td>
-  </tr>
-</table>
-
-<!-- ensure next sections start below the image -->
-<br clear="all"/>
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://stackoverflow.com/users/25404173/mohammad-arabi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@khanarabi80" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/khanarabi80" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/_i_arabi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arabi-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=radical" alt="GitHub Streak" />
-</p>
+<div style="background-color:#0d1117; border-radius:15px; padding:20px;">
+  <h3>🛠 Languages and Tools:</h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,git,github,vscode,html,css,js" alt="skills"/>
+  </p>
+</div>
