@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arabi</h1>
-<h3 align="center">A thinker turing his thoughts into code.</h3>
+<h3 align="center">A thinker turning his thoughts into code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabi-1&label=Profile%20views&color=0e75b6&style=flat" alt="arabi-1" /> </p>
 
