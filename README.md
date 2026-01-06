@@ -10,8 +10,7 @@
     <!-- LEFT COLUMN: text -->
     <td valign="top" width="60%">
       
-### 🚀 About Me
-- 🔭 I’m currently working on **Shopping_app**  
+### 🚀 About Me  
 - 🌱 I’m currently learning **Dart and Firebase**  
 - 👯 I’m looking to collaborate on **Java and Dart projects**  
 - 🤝 I’m looking for help with **Dart and Java**  
