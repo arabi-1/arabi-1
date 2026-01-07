@@ -79,10 +79,7 @@
 </p>
 
 ### 📊 GitHub Stats
+<h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arabi-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arabi-1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arabi-1&theme=radical&no-frame=true&margin-w=4" alt="arabi-1" />
 </p>
