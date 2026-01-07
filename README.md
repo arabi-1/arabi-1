@@ -63,8 +63,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arabi-1&theme=radical&no-frame=true&margin-w=4" alt="arabi-1" />
-</p>
+
