@@ -50,7 +50,7 @@
   </a>
 </p>
 
-### 🛠️ Languages and Tools
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>&nbsp;
