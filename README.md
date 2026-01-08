@@ -7,33 +7,31 @@
 
 <table width="100%" cellpadding="10">
   <tr>
-    <!-- LEFT COLUMN: text -->
     <td valign="top" width="60%">
-      
-### 🚀 About Me  
-- 🌱 I’m currently learning **Firebase**  
-- 👯 I’m looking to collaborate on **Java and Dart projects**  
-- 🤝 I’m looking for help with **Dart and Java**  
-- 💬 Ask me about **Java, C++ and Python**  
-- 📫 How to reach me: **khanarabi80@gmail.com**  
-- ⚡ Fun fact: **I think I am not performing to my highest potential**
-
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🌱 I’m currently learning <b>Firebase</b></li>
+        <li>👯 I’m looking to collaborate on <b>Java and Dart projects</b></li>
+        <li>🤝 I’m looking for help with <b>Dart and Java</b></li>
+        <li>💬 Ask me about <b>Java, C++ and Python</b></li>
+        <li>📫 How to reach me: <b>khanarabi80@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I think I am not performing to my highest potential</b></li>
+      </ul>
     </td>
 
-    <!-- RIGHT COLUMN: big GIF -->
     <td valign="top" width="40%" align="center">
-      <img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" alt="Coding animation" width="520" />
+      <img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" alt="Coding animation" width="100%" />
     </td>
   </tr>
 </table>
 
-<!-- ensure next sections start below the image -->
 <br clear="all"/>
 
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -51,7 +49,6 @@
   </a>
 </p>
 
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>&nbsp;
@@ -63,5 +60,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-
-
