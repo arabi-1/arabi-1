@@ -27,8 +27,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
 </div>
 
 <br/>
