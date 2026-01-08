@@ -33,6 +33,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ### 🌐 Connect with Me
 <p align="left">
