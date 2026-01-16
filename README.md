@@ -15,7 +15,6 @@
         <li>🤝 I’m looking for help with <strong>Dart and Java</strong></li>
         <li>💬 Ask me about <strong>Java, C++ and Python</strong></li>
         <li>📫 How to reach me: <strong>khanarabi80@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>I think I am not performing to my highest potential</strong></li>
       </ul>
     </td>
     <td valign="top" width="40%" align="center">
