@@ -7,12 +7,25 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="60%">
+
 ## 🚀 About Me
-- 🌱 Currently learning **Firebase**
-- 👯 Open to collaboration on **Java & Dart projects**
-- 🤝 Looking for guidance in **Dart and Java**
+- 🌱 Learning **Firebase**
+- 👯 Open to **Java & Dart collaborations**
+- 🤝 Improving **Dart & Java**
 - 💬 Ask me about **Java, C++, Python**
-- 📫 Reach me at **khanarabi80@gmail.com**
+- 📫 **khanarabi80@gmail.com**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -29,33 +42,11 @@
 ---
 
 ## 🛠️ Languages & Tools
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/deviconsicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://stackoverflow.com/users/25404173/mohammad-arabi">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/>
-  </a>
-  <a href="https://medium.com/@khanarabi80">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/khanarabi80">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-  </a>
-  <a href="https://leetcode.com/_i_arabi">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
 </p>
