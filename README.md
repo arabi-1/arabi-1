@@ -5,7 +5,7 @@
   <img src="https://hits.sh/github.com/arabi-1.svg?label=Profile%20views&color=0e75b6&logo=github" alt="profile views"/>
 </p>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="60%">
       <h3>🚀 About Me</h3>
@@ -25,16 +25,18 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding-right: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
-    </td>
-    <td align="center" style="padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding-right: 10px;">
+        <img src="https://streak-stats.demolab.com?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
+      </td>
+      <td align="center" style="padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
