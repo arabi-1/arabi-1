@@ -25,18 +25,11 @@
 
 <br/>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="padding-right: 10px;">
-        <img src="https://streak-stats.demolab.com?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
-      </td>
-      <td align="center" style="padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arabi-1&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="170" />
+</p>
 
 <br/>
 
