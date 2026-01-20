@@ -25,11 +25,16 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="175" />
+    </td>
+    <td align="center" style="padding-left: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" height="175" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
