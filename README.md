@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🌱 Learning **Firebase**
-- 👯 Open to **Java & Dart collaborations**
+- 👯 Open to **Java , Flutter and Dart collaborations**
 - 🤝 Improving **Dart & Java**
 - 💬 Ask me about **Java, C++, Python**
 - 📫 **khanarabi80@gmail.com**
