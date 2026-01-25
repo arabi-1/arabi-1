@@ -38,7 +38,7 @@
   <br><br>
 
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1" />
+    <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=arabi-1" />
   </p>
 </div>
 
