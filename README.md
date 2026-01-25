@@ -34,7 +34,12 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arabi-1&show_icons=true&locale=en&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabi-1&show_icons=true&locale=en" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arabi-1&" />
+  
+  <br><br>
+
+  <p align="center">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=arabi-1" />
+  </p>
 </div>
 
 ---
