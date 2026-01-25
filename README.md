@@ -38,7 +38,14 @@
   <br><br>
 
   <p align="center">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhanif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabi-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  
+  <br><br>
+
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=arabi-1&theme=dark&hide_border=false" />
+</div>
   </p>
 </div>
 
