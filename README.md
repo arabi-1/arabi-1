@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arabi</h1>
+<h1 align="center">Salam👋, I'm Muhammad Arabi</h1>
 <h3 align="center">A thinker turning his thoughts into code</h3>
 
 <p align="center">
