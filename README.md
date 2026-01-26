@@ -27,6 +27,9 @@
 </tr>
 </table>
 
+### ✍️ Medium Blog Posts
+- [From Medicine to Software Engineering](https://medium.com/@khanarabi80/from-medicine-to-software-engineering-2dfadb9cca6d)
+
 ---
 
 ## 📊 GitHub Stats
