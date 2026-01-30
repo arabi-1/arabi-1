@@ -1,5 +1,5 @@
 <h1 align="center">Salam👋, I'm Muhammad Arabi</h1>
-<h3 align="center">A thinker turning his thoughts into code</h3>
+<h3 align="center">Solving problems with algorithms and data structures.</h3>
 
 <p align="center">
   <img src="https://hits.sh/github.com/arabi-1.svg?label=Profile%20views&color=0e75b6&logo=github" />
