@@ -15,7 +15,7 @@
 - 🌱 Learning **Dart, Flutter and Firebase**
 - 👯 Open to **Java, Flutter and Dart collaborations**
 - 🤝 Improving **Dart & Java**
-- 💬 Ask me about **Java, Flutter, Dart, C++, Python**
+- 💬 Ask me about **Java, Flutter, Dart, C++**
 - 📫 **khanarabi80@gmail.com**
 
 </td>
