@@ -1,55 +1,96 @@
-<h1 align="center">Salam👋, I'm Muhammad Arabi</h1>
-<h3 align="center">Solving problems with algorithms and data structures.</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Arabi</h1>
+<h3 align="center">Software Engineering Student | Problem Solver | Backend & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/arabi-1.svg?label=Profile%20views&color=0e75b6&logo=github" />
+  Passionate about building reliable software, solving algorithmic problems, and continuously learning new technologies.
 </p>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="60%">
+## 👨‍💻 About Me
 
-## 🚀 About Me
-- 🌱 Building cross platform apps using **Flutter and Dart**
-- 👯 Open to **Java, Flutter and Dart collaborations**
-- 💬 Ask me about **Java, Flutter, Dart, C++**
-- 📫 **khanarabi80@gmail.com**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github.com/mhmzdev/mhmzdev/blob/master/code.gif?raw=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
-### ✍️ Medium Blog Posts
-- [From Medicine to Software Engineering](https://medium.com/@khanarabi80/from-medicine-to-software-engineering-2dfadb9cca6d)
+- 🎓 Software Engineering Student
+- 🌱 Currently mastering **Data Structures & Algorithms**
+- 💻 Learning **Backend Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Interested in building scalable software systems
+- 📖 Always learning something new
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabi-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  
-  <br><br>
-
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=arabi-1&theme=dark&hide_border=false" />
-</div>
+- ✅ Striver A2Z DSA Sheet
+- ✅ Backend Development
+- ✅ Clean Code & System Design
+- ✅ Building high-quality portfolio projects
+- ✅ Preparing for Software Engineering internships
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a></p>
+## 🛠 Tech Stack
 
----
-
-<h3 align="center">💡 Daily Reminder</h3>
 <p align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."</i> <br> — Chris Pine
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,firebase,postgres,mysql,git,github,vscode,linux&perline=6" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+> *(These will become clickable as you build them.)*
+
+| Project | Description |
+|----------|-------------|
+| 🚀 Project 1 | Coming Soon |
+| 🚀 Project 2 | Coming Soon |
+| 🚀 Project 3 | Coming Soon |
+| 🚀 Project 4 | Coming Soon |
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arabi-1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabi-1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Database Design
+- System Design
+- Artificial Intelligence
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:khanarabi80@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<!-- Add LinkedIn later -->
+
+<!-- Add Portfolio later -->
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"The best way to learn is to build."</i>
+
 </p>
