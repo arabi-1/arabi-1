@@ -12,7 +12,7 @@
 <td width="60%">
 
 ## 🚀 About Me
-- 🌱 Learning **Dart, Flutter and Firebase**
+- 🌱 Building cross platform apps using ** Flutter and Dart**
 - 👯 Open to **Java, Flutter and Dart collaborations**
 - 💬 Ask me about **Java, Flutter, Dart, C++**
 - 📫 **khanarabi80@gmail.com**
